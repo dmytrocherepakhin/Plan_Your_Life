@@ -65,7 +65,6 @@ for (let i = 0; i < dots.length; i++) {
 // Slider - Testimonials:
 
 const sliderRowTest = document.querySelector('.section-5_slider__row');
-
 const dotsTestimonials = document.querySelectorAll('.section-5_slider__dots span');
 
 let activeDotTest = 0;
