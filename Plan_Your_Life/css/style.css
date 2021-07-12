@@ -874,7 +874,6 @@ a {
     left: 0;
     display: flex;
     justify-content: flex-start;
-    cursor: pointer;
     align-items: center;
     transition: all 1s;
 }
